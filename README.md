@@ -7,7 +7,7 @@
  </h2>
 
 <div align="center">
-  <a target='_blank' href='https://portafolio-five-mu.vercel.app/'>
+  <a target='_blank' href='https://github.com/FedericoGabrielCastro/portafolio'>
     <img src="https://github-readme-stats.vercel.app/api/pin?username=FedericoGabrielCastro&repo=portafolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
 </div>
