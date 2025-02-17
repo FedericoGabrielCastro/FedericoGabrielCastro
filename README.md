@@ -21,3 +21,7 @@
 <a href="https://www.amazon.es/Fluent-React-Performant-Intuitive-Applications/dp/1098138716/" target="_blank">
     <img src="https://m.media-amazon.com/images/I/71LeIRBPrtL._SL1500_.jpg" height="230px" width="19%" />
 </a>
+
+<a href="https://www.amazon.es/gp/product/B0C6C6GFKK/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1" target="_blank">
+    <img src="https://m.media-amazon.com/images/I/61W0F8FhYHL._SL1500_.jpg" height="230px" width="19%" />
+</a>
