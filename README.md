@@ -33,3 +33,7 @@
 <a href="https://www.amazon.es/Full-Stack-Development-Remix-production-ready/dp/1801075298" target="_blank" rel="noopener noreferrer">
     <img src="https://m.media-amazon.com/images/I/71-YVk4+BJL._SL1360_.jpg" height="230px" width="19%" alt="Full-Stack Development with Remix" />
 </a>
+
+<a href="https://www.amazon.es/Modern-Web-Applications-Next-JS-Techniques/dp/938859097X" target="_blank" rel="noopener noreferrer">
+    <img src="https://m.media-amazon.com/images/I/81g2TsHH1FL._SL1500_.jpg" height="230px" width="19%" alt="Modern Web Applications with Next.js">
+</a>
