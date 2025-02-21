@@ -29,3 +29,7 @@
 <a href="https://www.amazon.es/Ultimate-Tailwind-CSS-Handbook-immersive/dp/9388590767" target="_blank">
     <img src="https://m.media-amazon.com/images/I/71hqGGxGsOL._SL1500_.jpg" height="230px" width="19%" />
 </a>
+
+<a href="https://www.amazon.es/Full-Stack-Development-Remix-production-ready/dp/1801075298" target="_blank" rel="noopener noreferrer">
+    <img src="https://m.media-amazon.com/images/I/71-YVk4+BJL._SL1360_.jpg" height="230px" width="19%" alt="Full-Stack Development with Remix" />
+</a>
