@@ -1,14 +1,3 @@
-<p align="center">
-<strong><big><big><big><big>Federico Gabriel Castro</big></big></big></big></strong><br><br>
-<em><big><big><big>Software Engineer</big></big></big></em><br><br>
-<a href="https://www.federicogabrielcastro.com/" target="_blank" rel="noopener noreferrer"><img src="./media/icons/portfolio.svg" width="36" height="36" alt="Portfolio"></a>
-&nbsp;
-<a href="mailto:fgc_castro@live.com"><img src="./media/icons/email.svg" width="36" height="36" alt="Email"></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/federico-gabriel-castro-837417186/?locale=en" target="_blank" rel="noopener noreferrer"><img src="./media/icons/linkedin.svg" width="36" height="36" alt="LinkedIn"></a>
-&nbsp;
-<a href="https://wa.me/5491130556626" target="_blank" rel="noopener noreferrer"><img src="./media/icons/whatsapp.svg" width="36" height="36" alt="WhatsApp"></a>
-</p>
 
 <p align="center"><img src="./media/projects.png" width="100%" alt="Projects banner"></p>
 
