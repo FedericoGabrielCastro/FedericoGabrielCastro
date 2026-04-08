@@ -1,7 +1,6 @@
-<h1 align="center">Federico Gabriel Castro</h1>
-<h2 align="center"><em>Software Engineer</em></h2>
-
 <p align="center">
+<strong><big><big>Federico Gabriel Castro</big></big></strong><br><br>
+<em><big>Software Engineer</big></em><br><br>
 <a href="https://www.federicogabrielcastro.com/" target="_blank" rel="noopener noreferrer"><img src="./media/icons/portfolio.svg" width="36" height="36" alt="Portfolio"></a>
 &nbsp;
 <a href="mailto:fgc_castro@live.com"><img src="./media/icons/email.svg" width="36" height="36" alt="Email"></a>
@@ -11,7 +10,7 @@
 <a href="https://wa.me/5491130556626" target="_blank" rel="noopener noreferrer"><img src="./media/icons/whatsapp.svg" width="36" height="36" alt="WhatsApp"></a>
 </p>
 
-<p align="center"><img src="./media/skills.png" width="100%" alt="Skills banner"></p>
+<p align="center"><img src="./media/projects.png" width="100%" alt="Projects banner"></p>
 
 ### Backend Development
 
@@ -120,8 +119,6 @@
 &nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Swift&color=a67c52&logoColor=ffffff" alt="Swift">
 &nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Firebase&color=a67c52&logoColor=ffffff" alt="Firebase">
 </p>
-
-<p align="center"><img src="./media/projects.png" width="100%" alt="Projects banner"></p>
 
 <p align="center"><img src="./media/books.png" width="100%" alt="Books banner"></p>
 
