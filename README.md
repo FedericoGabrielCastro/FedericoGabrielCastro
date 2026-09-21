@@ -5,6 +5,41 @@ I design and ship products end to end — <strong>Django</strong> and DRF on the
 
 <p align="center"><img src="./media/projects.png" width="100%" alt="Projects banner"></p>
 
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/FedericoGabrielCastro/Apollo" target="_blank" rel="noopener noreferrer"><img src="./media/projects/apollo.png" alt="Apollo"></a><br>
+<strong><big><a href="https://github.com/FedericoGabrielCastro/Apollo" target="_blank" rel="noopener noreferrer">Apollo</a></big></strong><br>
+<em>API Health Monitor</em><br><br>
+Scheduled probes, incidents, alerts, and a public status page.<br><br>
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="24" alt="Django">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="24" alt="React">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=DRF&color=a67c52&logoColor=ffffff" height="24" alt="DRF">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=a67c52&logoColor=ffffff" height="24" alt="Docker">
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/FedericoGabrielCastro/Mnemosyne" target="_blank" rel="noopener noreferrer"><img src="./media/projects/mnemosyne.png" alt="Mnemosyne"></a><br>
+<strong><big><a href="https://github.com/FedericoGabrielCastro/Mnemosyne" target="_blank" rel="noopener noreferrer">Mnemosyne</a></big></strong><br>
+<em>Local RAG &amp; semantic search</em><br><br>
+Upload docs, retrieve by meaning, get cited answers — all on-device.<br><br>
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="24" alt="Django">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="24" alt="React">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ONNX&color=a67c52&logoColor=ffffff" height="24" alt="ONNX">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ChromaDB&color=a67c52&logoColor=ffffff" height="24" alt="ChromaDB">
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/FedericoGabrielCastro/Athena" target="_blank" rel="noopener noreferrer"><img src="./media/projects/athena.png" alt="Athena"></a><br>
+<strong><big><a href="https://github.com/FedericoGabrielCastro/Athena" target="_blank" rel="noopener noreferrer">Athena</a></big></strong><br>
+<em>Local AI ticket classifier</em><br><br>
+Category, priority, tags, and confidence — Ollama when available, TF-IDF fallback.<br><br>
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="24" alt="Django">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="24" alt="React">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Ollama&color=a67c52&logoColor=ffffff" height="24" alt="Ollama">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TF-IDF&color=a67c52&logoColor=ffffff" height="24" alt="TF-IDF">
+</td>
+</tr>
+</table>
+
 <p align="center"><strong><big>AI Engineering</big></strong></p>
 
 <p align="center">
