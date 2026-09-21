@@ -1,5 +1,26 @@
 
+<p align="center">
+I design and ship products end to end — <strong>Django</strong> and DRF on the backend, <strong>React</strong> and TypeScript on the frontend, and <strong>AI workflows</strong> for data extraction, document analysis, and decision support. Claude and Cursor are part of my workflow where they add value; automated tests keep releases predictable.
+</p>
+
 <p align="center"><img src="./media/projects.png" width="100%" alt="Projects banner"></p>
+
+<p align="center"><strong><big>AI Engineering</big></strong></p>
+
+<p align="center">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=LLMs&color=a67c52&logoColor=ffffff" height="30" alt="LLMs">
+&nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Claude&color=a67c52&logoColor=ffffff" height="30" alt="Claude">
+&nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Anthropic&color=a67c52&logoColor=ffffff" height="30" alt="Anthropic">
+&nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Cursor&color=a67c52&logoColor=ffffff" height="30" alt="Cursor">
+&nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Prompt+engineering&color=a67c52&logoColor=ffffff" height="30" alt="Prompt engineering">
+&nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AI+agents&color=a67c52&logoColor=ffffff" height="30" alt="AI agents">
+&nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Data+pipelines&color=a67c52&logoColor=ffffff" height="30" alt="Data pipelines">
+&nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Web+crawlers&color=a67c52&logoColor=ffffff" height="30" alt="Web crawlers">
+&nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Web+scraping&color=a67c52&logoColor=ffffff" height="30" alt="Web scraping">
+&nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Document+analysis&color=a67c52&logoColor=ffffff" height="30" alt="Document analysis">
+&nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Classification&color=a67c52&logoColor=ffffff" height="30" alt="Classification">
+&nbsp; <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Decision+engines&color=a67c52&logoColor=ffffff" height="30" alt="Decision engines">
+</p>
 
 <p align="center"><strong><big>Backend Development</big></strong></p>
 
