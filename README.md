@@ -1,15 +1,3 @@
-<p align="center">
-<strong><big><big><big><big>Federico Gabriel Castro</big></big></big></big></strong><br><br>
-<em><big><big><big>Full Stack AI Engineer</big></big></big></em><br>
-<em><big>Django · React · TypeScript · Python · LLMs</big></em><br><br>
-<a href="https://www.federicogabrielcastro.com/" target="_blank" rel="noopener noreferrer"><img src="./media/icons/portfolio.svg" width="36" height="36" alt="Portfolio"></a>
-&nbsp;
-<a href="mailto:fgc_castro@live.com"><img src="./media/icons/email.svg" width="36" height="36" alt="Email"></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/federico-gabriel-castro-837417186/?locale=en" target="_blank" rel="noopener noreferrer"><img src="./media/icons/linkedin.svg" width="36" height="36" alt="LinkedIn"></a>
-&nbsp;
-<a href="https://wa.me/5491130556626" target="_blank" rel="noopener noreferrer"><img src="./media/icons/whatsapp.svg" width="36" height="36" alt="WhatsApp"></a>
-</p>
 
 <p align="center">
 I design and ship products end to end — <strong>Django</strong> and DRF on the backend, <strong>React</strong> and TypeScript on the frontend, and <strong>AI workflows</strong> for data extraction, document analysis, and decision support. Claude and Cursor are part of my workflow where they add value; automated tests keep releases predictable.
