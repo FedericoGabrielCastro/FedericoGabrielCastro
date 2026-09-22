@@ -3,42 +3,67 @@
 I design and ship products end to end — <strong>Django</strong> and DRF on the backend, <strong>React</strong> and TypeScript on the frontend, and <strong>AI workflows</strong> for data extraction, document analysis, and decision support. Claude and Cursor are part of my workflow where they add value; automated tests keep releases predictable.
 </p>
 
-<p align="center"><img src="./media/projects.png" width="100%" alt="Projects banner"></p>
+<p align="center"><strong><big>Projects</big></strong></p>
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-<a href="https://github.com/FedericoGabrielCastro/Apollo" target="_blank" rel="noopener noreferrer"><img src="./media/projects/apollo.png" alt="Apollo"></a><br>
+<p align="center">
 <strong><big><a href="https://github.com/FedericoGabrielCastro/Apollo" target="_blank" rel="noopener noreferrer">Apollo</a></big></strong><br>
-<em>API Health Monitor</em><br><br>
-Scheduled probes, incidents, alerts, and a public status page.<br><br>
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="24" alt="Django">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="24" alt="React">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=DRF&color=a67c52&logoColor=ffffff" height="24" alt="DRF">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=a67c52&logoColor=ffffff" height="24" alt="Docker">
-</td>
-<td width="33%" valign="top" align="center">
-<a href="https://github.com/FedericoGabrielCastro/Mnemosyne" target="_blank" rel="noopener noreferrer"><img src="./media/projects/mnemosyne.png" alt="Mnemosyne"></a><br>
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="22" alt="Django">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="22" alt="React">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=DRF&color=a67c52&logoColor=ffffff" height="22" alt="DRF">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=a67c52&logoColor=ffffff" height="22" alt="Docker">
+<br>
+Scheduled probes, incidents, alerts, and a public status page.
+</p>
+
+<p align="center">
 <strong><big><a href="https://github.com/FedericoGabrielCastro/Mnemosyne" target="_blank" rel="noopener noreferrer">Mnemosyne</a></big></strong><br>
-<em>Local RAG &amp; semantic search</em><br><br>
-Upload docs, retrieve by meaning, get cited answers — all on-device.<br><br>
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="24" alt="Django">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="24" alt="React">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ONNX&color=a67c52&logoColor=ffffff" height="24" alt="ONNX">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ChromaDB&color=a67c52&logoColor=ffffff" height="24" alt="ChromaDB">
-</td>
-<td width="33%" valign="top" align="center">
-<a href="https://github.com/FedericoGabrielCastro/Athena" target="_blank" rel="noopener noreferrer"><img src="./media/projects/athena.png" alt="Athena"></a><br>
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="22" alt="Django">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="22" alt="React">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ONNX&color=a67c52&logoColor=ffffff" height="22" alt="ONNX">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ChromaDB&color=a67c52&logoColor=ffffff" height="22" alt="ChromaDB">
+<br>
+Upload docs, retrieve by meaning, get cited answers — all on-device.
+</p>
+
+<p align="center">
 <strong><big><a href="https://github.com/FedericoGabrielCastro/Athena" target="_blank" rel="noopener noreferrer">Athena</a></big></strong><br>
-<em>Local AI ticket classifier</em><br><br>
-Category, priority, tags, and confidence — Ollama when available, TF-IDF fallback.<br><br>
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="24" alt="Django">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="24" alt="React">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Ollama&color=a67c52&logoColor=ffffff" height="24" alt="Ollama">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TF-IDF&color=a67c52&logoColor=ffffff" height="24" alt="TF-IDF">
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="22" alt="Django">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="22" alt="React">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Ollama&color=a67c52&logoColor=ffffff" height="22" alt="Ollama">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TF-IDF&color=a67c52&logoColor=ffffff" height="22" alt="TF-IDF">
+<br>
+Category, priority, tags, and confidence — Ollama when available, TF-IDF fallback.
+</p>
+
+<p align="center">
+<strong><big><a href="https://github.com/FedericoGabrielCastro/Prometheus" target="_blank" rel="noopener noreferrer">Prometheus</a></big></strong><br>
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=a67c52&logoColor=ffffff" height="22" alt="Python">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Poetry&color=a67c52&logoColor=ffffff" height="22" alt="Poetry">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=OpenAI&color=a67c52&logoColor=ffffff" height="22" alt="OpenAI">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=CLI&color=a67c52&logoColor=ffffff" height="22" alt="CLI">
+<br>
+Agent loop that calls a model, runs tools, and feeds results back until the job is done.
+</p>
+
+<p align="center">
+<strong><big><a href="https://github.com/FedericoGabrielCastro/Ares" target="_blank" rel="noopener noreferrer">Ares</a></big></strong><br>
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript&color=a67c52&logoColor=ffffff" height="22" alt="TypeScript">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Express&color=a67c52&logoColor=ffffff" height="22" alt="Express">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="22" alt="React">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SSE&color=a67c52&logoColor=ffffff" height="22" alt="SSE">
+<br>
+In-process job queue with live SSE updates and a React dashboard — no auth or DB required.
+</p>
+
+<p align="center">
+<strong><big><a href="https://github.com/FedericoGabrielCastro/Hermes" target="_blank" rel="noopener noreferrer">Hermes</a></big></strong><br>
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Express&color=a67c52&logoColor=ffffff" height="22" alt="Express">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Next.js&color=a67c52&logoColor=ffffff" height="22" alt="Next.js">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=OpenAPI&color=a67c52&logoColor=ffffff" height="22" alt="OpenAPI">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Webhooks&color=a67c52&logoColor=ffffff" height="22" alt="Webhooks">
+<br>
+API gateway and webhook console with retries, a dead-letter queue, and OpenAPI.
+</p>
 
 <p align="center"><strong><big>AI Engineering</big></strong></p>
 
