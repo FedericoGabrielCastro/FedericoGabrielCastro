@@ -5,44 +5,48 @@ I design and ship products end to end — <strong>Django</strong> and DRF on the
 
 <table>
 <tr>
-<td>
-<a href="https://github.com/FedericoGabrielCastro/Apollo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoGabrielCastro&repo=Apollo&theme=transparent" alt="Apollo">
-</a>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/FedericoGabrielCastro/Apollo">Apollo</a></h3>
+Scheduled probes, incidents, alerts, and a public status page.
+<br><br>
+● Django
 </td>
-<td>
-<a href="https://github.com/FedericoGabrielCastro/Mnemosyne">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoGabrielCastro&repo=Mnemosyne&theme=transparent" alt="Mnemosyne">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/FedericoGabrielCastro/Athena">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoGabrielCastro&repo=Athena&theme=transparent" alt="Athena">
-</a>
-</td>
-<td>
-<a href="https://github.com/FedericoGabrielCastro/Prometheus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoGabrielCastro&repo=Prometheus&theme=transparent" alt="Prometheus">
-</a>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/FedericoGabrielCastro/Mnemosyne">Mnemosyne</a></h3>
+Upload docs, retrieve by meaning, get cited answers — all on-device.
+<br><br>
+● Python
 </td>
 </tr>
 <tr>
-<td>
-<a href="https://github.com/FedericoGabrielCastro/Ares">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoGabrielCastro&repo=Ares&theme=transparent" alt="Ares">
-</a>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/FedericoGabrielCastro/Athena">Athena</a></h3>
+Category, priority, tags, and confidence — Ollama when available, TF-IDF fallback.
+<br><br>
+● Django
 </td>
-<td>
-<a href="https://github.com/FedericoGabrielCastro/Hermes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoGabrielCastro&repo=Hermes&theme=transparent" alt="Hermes">
-</a>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/FedericoGabrielCastro/Prometheus">Prometheus</a></h3>
+Agent loop that calls a model, runs tools, and feeds results back until the job is done.
+<br><br>
+● Python
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/FedericoGabrielCastro/Ares">Ares</a></h3>
+In-process job queue with live SSE updates and a React dashboard — no auth or DB required.
+<br><br>
+● TypeScript
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/FedericoGabrielCastro/Hermes">Hermes</a></h3>
+API gateway and webhook console with retries, a dead-letter queue, and OpenAPI.
+<br><br>
+● TypeScript
 </td>
 </tr>
 </table>
-
-<p align="center"><img src="./media/books.png" width="100%" alt="Books banner"></p>
 
 <p align="center">
 <a href="https://www.amazon.es/Building-Multi-Tenant-Saas-Architectures-Principles/dp/1098140648/" target="_blank" rel="noopener noreferrer"><img src="./media/books/building-multi-tenant-saas.png" width="150" alt="Building Multi-Tenant SaaS Architectures"></a>
@@ -78,4 +82,24 @@ I design and ship products end to end — <strong>Django</strong> and DRF on the
 <a href="https://www.amazon.es/Ultimate-Django-Development-Using-Python/dp/8196815115/" target="_blank" rel="noopener noreferrer"><img src="./media/books/ultimate-django-web-development.png" width="150" alt="Ultimate Django Web Development"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.amazon.es/Ultimate-Design-Professionals-User-Centric-Collaboration/dp/B0DR15X1CW/" target="_blank" rel="noopener noreferrer"><img src="./media/books/ultimate-ui-ux-design-professionals.png" width="150" alt="Ultimate UI/UX Design for Professionals"></a>
+</p>
+
+<p align="center">
+<a href="https://www.amazon.es/Django-Example-powerful-reliable-applications/dp/1805125451/" target="_blank" rel="noopener noreferrer"><img src="./media/books/django-5-by-example.png" width="150" alt="Django 5 By Example"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.amazon.es/Fluent-Python-Concise-Effective-Programming/dp/1492056359/" target="_blank" rel="noopener noreferrer"><img src="./media/books/fluent-python.png" width="150" alt="Fluent Python"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205/" target="_blank" rel="noopener noreferrer"><img src="./media/books/architecture-patterns-python.png" width="150" alt="Architecture Patterns with Python"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302/" target="_blank" rel="noopener noreferrer"><img src="./media/books/ai-engineering.png" width="150" alt="AI Engineering"></a>
+</p>
+
+<p align="center">
+<a href="https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961/" target="_blank" rel="noopener noreferrer"><img src="./media/books/hands-on-llms.png" width="150" alt="Hands-On Large Language Models"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/" target="_blank" rel="noopener noreferrer"><img src="./media/books/build-llm-from-scratch.png" width="150" alt="Build a Large Language Model From Scratch"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/" target="_blank" rel="noopener noreferrer"><img src="./media/books/llm-engineers-handbook.png" width="150" alt="LLM Engineer&#39;s Handbook"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.amazon.com/Generative-LangChain-production-ready-applications-LangGraph/dp/1837022011/" target="_blank" rel="noopener noreferrer"><img src="./media/books/generative-ai-langchain.png" width="150" alt="Generative AI with LangChain"></a>
 </p>
