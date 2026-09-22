@@ -66,52 +66,108 @@ Full stack AI engineer. I ship products end to end: <strong>Django</strong> and 
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Swagger&color=a67c52&logoColor=ffffff" height="28" alt="Swagger">
 </p>
 
-<p>
+<p align="center">
 <a href="https://github.com/FedericoGabrielCastro/Apollo"><strong>Apollo</strong></a><br>
 Scheduled probes, incidents, alerts, and a public status page.<br>
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="20" alt="Django">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="20" alt="React">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=a67c52&logoColor=ffffff" height="20" alt="Docker">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=a67c52&logoColor=ffffff" height="20" alt="Python">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="20" alt="Django">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=DRF&color=a67c52&logoColor=ffffff" height="20" alt="DRF">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="20" alt="React">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript&color=a67c52&logoColor=ffffff" height="20" alt="TypeScript">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Redux&color=a67c52&logoColor=ffffff" height="20" alt="Redux">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Vite&color=a67c52&logoColor=ffffff" height="20" alt="Vite">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Poetry&color=a67c52&logoColor=ffffff" height="20" alt="Poetry">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=pnpm&color=a67c52&logoColor=ffffff" height="20" alt="pnpm">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=a67c52&logoColor=ffffff" height="20" alt="Docker">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Compose&color=a67c52&logoColor=ffffff" height="20" alt="Compose">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=PostgreSQL&color=a67c52&logoColor=ffffff" height="20" alt="PostgreSQL">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQLite&color=a67c52&logoColor=ffffff" height="20" alt="SQLite">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=REST&color=a67c52&logoColor=ffffff" height="20" alt="REST">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=pytest&color=a67c52&logoColor=ffffff" height="20" alt="pytest">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub+Actions&color=a67c52&logoColor=ffffff" height="20" alt="GitHub Actions">
 </p>
 
-<p>
+<p align="center">
 <a href="https://github.com/FedericoGabrielCastro/Mnemosyne"><strong>Mnemosyne</strong></a><br>
 Upload docs, retrieve by meaning, get cited answers — all on-device.<br>
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="20" alt="Django">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="20" alt="React">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AI&color=a67c52&logoColor=ffffff" height="20" alt="AI">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=a67c52&logoColor=ffffff" height="20" alt="Python">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="20" alt="Django">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=DRF&color=a67c52&logoColor=ffffff" height="20" alt="DRF">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="20" alt="React">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript&color=a67c52&logoColor=ffffff" height="20" alt="TypeScript">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Vite&color=a67c52&logoColor=ffffff" height="20" alt="Vite">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Tailwind+CSS&color=a67c52&logoColor=ffffff" height="20" alt="Tailwind CSS">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Poetry&color=a67c52&logoColor=ffffff" height="20" alt="Poetry">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=pnpm&color=a67c52&logoColor=ffffff" height="20" alt="pnpm">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=RAG&color=a67c52&logoColor=ffffff" height="20" alt="RAG">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ONNX&color=a67c52&logoColor=ffffff" height="20" alt="ONNX">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ChromaDB&color=a67c52&logoColor=ffffff" height="20" alt="ChromaDB">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Ollama&color=a67c52&logoColor=ffffff" height="20" alt="Ollama">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=REST&color=a67c52&logoColor=ffffff" height="20" alt="REST">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=pytest&color=a67c52&logoColor=ffffff" height="20" alt="pytest">
 </p>
 
-<p>
+<p align="center">
 <a href="https://github.com/FedericoGabrielCastro/Athena"><strong>Athena</strong></a><br>
 Category, priority, tags, and confidence — Ollama when available, TF-IDF fallback.<br>
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="20" alt="Django">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="20" alt="React">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AI&color=a67c52&logoColor=ffffff" height="20" alt="AI">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=a67c52&logoColor=ffffff" height="20" alt="Python">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="20" alt="Django">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=DRF&color=a67c52&logoColor=ffffff" height="20" alt="DRF">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="20" alt="React">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript&color=a67c52&logoColor=ffffff" height="20" alt="TypeScript">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Vite&color=a67c52&logoColor=ffffff" height="20" alt="Vite">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Poetry&color=a67c52&logoColor=ffffff" height="20" alt="Poetry">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=pnpm&color=a67c52&logoColor=ffffff" height="20" alt="pnpm">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQLite&color=a67c52&logoColor=ffffff" height="20" alt="SQLite">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Ollama&color=a67c52&logoColor=ffffff" height="20" alt="Ollama">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TF-IDF&color=a67c52&logoColor=ffffff" height="20" alt="TF-IDF">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=REST&color=a67c52&logoColor=ffffff" height="20" alt="REST">
 </p>
 
-<p>
+<p align="center">
 <a href="https://github.com/FedericoGabrielCastro/Prometheus"><strong>Prometheus</strong></a><br>
 Agent loop that calls a model, runs tools, and feeds results back until the job is done.<br>
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=a67c52&logoColor=ffffff" height="20" alt="Python">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AI&color=a67c52&logoColor=ffffff" height="20" alt="AI">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=CLI&color=a67c52&logoColor=ffffff" height="20" alt="CLI">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Poetry&color=a67c52&logoColor=ffffff" height="20" alt="Poetry">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=pytest&color=a67c52&logoColor=ffffff" height="20" alt="pytest">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=LLMs&color=a67c52&logoColor=ffffff" height="20" alt="LLMs">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Agents&color=a67c52&logoColor=ffffff" height="20" alt="Agents">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=OpenAI&color=a67c52&logoColor=ffffff" height="20" alt="OpenAI">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Ollama&color=a67c52&logoColor=ffffff" height="20" alt="Ollama">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=CLI&color=a67c52&logoColor=ffffff" height="20" alt="CLI">
 </p>
 
-<p>
+<p align="center">
 <a href="https://github.com/FedericoGabrielCastro/Ares"><strong>Ares</strong></a><br>
 In-process job queue with live SSE updates and a React dashboard — no auth or DB required.<br>
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript&color=a67c52&logoColor=ffffff" height="20" alt="TypeScript">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="20" alt="React">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Node&color=a67c52&logoColor=ffffff" height="20" alt="Node">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Node.js&color=a67c52&logoColor=ffffff" height="20" alt="Node.js">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Express&color=a67c52&logoColor=ffffff" height="20" alt="Express">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="20" alt="React">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Vite&color=a67c52&logoColor=ffffff" height="20" alt="Vite">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React+Query&color=a67c52&logoColor=ffffff" height="20" alt="React Query">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Tailwind+CSS&color=a67c52&logoColor=ffffff" height="20" alt="Tailwind CSS">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Zod&color=a67c52&logoColor=ffffff" height="20" alt="Zod">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=REST&color=a67c52&logoColor=ffffff" height="20" alt="REST">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SSE&color=a67c52&logoColor=ffffff" height="20" alt="SSE">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=a67c52&logoColor=ffffff" height="20" alt="Docker">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Compose&color=a67c52&logoColor=ffffff" height="20" alt="Compose">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub+Actions&color=a67c52&logoColor=ffffff" height="20" alt="GitHub Actions">
 </p>
 
-<p>
+<p align="center">
 <a href="https://github.com/FedericoGabrielCastro/Hermes"><strong>Hermes</strong></a><br>
 API gateway and webhook console with retries, a dead-letter queue, and OpenAPI.<br>
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript&color=a67c52&logoColor=ffffff" height="20" alt="TypeScript">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Next.js&color=a67c52&logoColor=ffffff" height="20" alt="Next.js">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Express&color=a67c52&logoColor=ffffff" height="20" alt="Express">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Node.js&color=a67c52&logoColor=ffffff" height="20" alt="Node.js">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Express&color=a67c52&logoColor=ffffff" height="20" alt="Express">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Next.js&color=a67c52&logoColor=ffffff" height="20" alt="Next.js">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=REST&color=a67c52&logoColor=ffffff" height="20" alt="REST">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=OpenAPI&color=a67c52&logoColor=ffffff" height="20" alt="OpenAPI">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Swagger&color=a67c52&logoColor=ffffff" height="20" alt="Swagger">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=a67c52&logoColor=ffffff" height="20" alt="Docker">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Compose&color=a67c52&logoColor=ffffff" height="20" alt="Compose">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub+Actions&color=a67c52&logoColor=ffffff" height="20" alt="GitHub Actions">
 </p>
 
 <p align="center">
