@@ -82,77 +82,53 @@ Full stack AI engineer. I ship products end to end: <strong>Django</strong> and 
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Swagger&color=a67c52&logoColor=ffffff" height="28" alt="Swagger">
 </p>
 
-<table>
-<tr>
-<td width="47%" valign="top">
-<table width="100%"><tr><td>
+<p>
 <a href="https://github.com/FedericoGabrielCastro/Apollo"><strong>Apollo</strong></a><br>
 Scheduled probes, incidents, alerts, and a public status page.<br>
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="20" alt="Django">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="20" alt="React">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=a67c52&logoColor=ffffff" height="20" alt="Docker">
-</td></tr></table>
-</td>
-<td width="6%"></td>
-<td width="47%" valign="top">
-<table width="100%"><tr><td>
+</p>
+
+<p>
 <a href="https://github.com/FedericoGabrielCastro/Mnemosyne"><strong>Mnemosyne</strong></a><br>
 Upload docs, retrieve by meaning, get cited answers — all on-device.<br>
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="20" alt="Django">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="20" alt="React">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AI&color=a67c52&logoColor=ffffff" height="20" alt="AI">
-</td></tr></table>
-</td>
-</tr>
-</table>
+</p>
 
-<table>
-<tr>
-<td width="47%" valign="top">
-<table width="100%"><tr><td>
+<p>
 <a href="https://github.com/FedericoGabrielCastro/Athena"><strong>Athena</strong></a><br>
 Category, priority, tags, and confidence — Ollama when available, TF-IDF fallback.<br>
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="20" alt="Django">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="20" alt="React">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AI&color=a67c52&logoColor=ffffff" height="20" alt="AI">
-</td></tr></table>
-</td>
-<td width="6%"></td>
-<td width="47%" valign="top">
-<table width="100%"><tr><td>
+</p>
+
+<p>
 <a href="https://github.com/FedericoGabrielCastro/Prometheus"><strong>Prometheus</strong></a><br>
 Agent loop that calls a model, runs tools, and feeds results back until the job is done.<br>
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=a67c52&logoColor=ffffff" height="20" alt="Python">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=AI&color=a67c52&logoColor=ffffff" height="20" alt="AI">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=CLI&color=a67c52&logoColor=ffffff" height="20" alt="CLI">
-</td></tr></table>
-</td>
-</tr>
-</table>
+</p>
 
-<table>
-<tr>
-<td width="47%" valign="top">
-<table width="100%"><tr><td>
+<p>
 <a href="https://github.com/FedericoGabrielCastro/Ares"><strong>Ares</strong></a><br>
 In-process job queue with live SSE updates and a React dashboard — no auth or DB required.<br>
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript&color=a67c52&logoColor=ffffff" height="20" alt="TypeScript">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="20" alt="React">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Node&color=a67c52&logoColor=ffffff" height="20" alt="Node">
-</td></tr></table>
-</td>
-<td width="6%"></td>
-<td width="47%" valign="top">
-<table width="100%"><tr><td>
+</p>
+
+<p>
 <a href="https://github.com/FedericoGabrielCastro/Hermes"><strong>Hermes</strong></a><br>
 API gateway and webhook console with retries, a dead-letter queue, and OpenAPI.<br>
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript&color=a67c52&logoColor=ffffff" height="20" alt="TypeScript">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Next.js&color=a67c52&logoColor=ffffff" height="20" alt="Next.js">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Express&color=a67c52&logoColor=ffffff" height="20" alt="Express">
-</td></tr></table>
-</td>
-</tr>
-</table>
+</p>
 
 <p align="center">
 <a href="https://www.amazon.es/Building-Multi-Tenant-Saas-Architectures-Principles/dp/1098140648/" target="_blank" rel="noopener noreferrer"><img src="./media/books/building-multi-tenant-saas.png" width="150" alt="Building Multi-Tenant SaaS Architectures"></a>
