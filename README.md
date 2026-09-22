@@ -3,9 +3,6 @@
 Full stack AI engineer. I ship products end to end: <strong>Django</strong> and DRF on the backend, <strong>React</strong> and TypeScript on the frontend, and <strong>LLM systems</strong> for RAG, agents, classification, and document analysis. Python and Node when the API needs it; Next.js or Remix when the UI does. Claude and Cursor are how I move faster — pytest, Playwright, and Docker are how I ship without surprises.
 </p>
 
-<p align="center"><strong><big>Skills</big></strong></p>
-
-<p align="center"><strong>Backend</strong></p>
 <p align="center">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=a67c52&logoColor=ffffff" height="28" alt="Python">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="28" alt="Django">
@@ -25,12 +22,7 @@ Full stack AI engineer. I ship products end to end: <strong>Django</strong> and 
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Redis&color=a67c52&logoColor=ffffff" height="28" alt="Redis">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQLite&color=a67c52&logoColor=ffffff" height="28" alt="SQLite">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Poetry&color=a67c52&logoColor=ffffff" height="28" alt="Poetry">
-</p>
-
-<p align="center"><strong>Frontend</strong></p>
-<p align="center">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="28" alt="React">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript&color=a67c52&logoColor=ffffff" height="28" alt="TypeScript">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="28" alt="React">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Next.js&color=a67c52&logoColor=ffffff" height="28" alt="Next.js">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Remix&color=a67c52&logoColor=ffffff" height="28" alt="Remix">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Vue&color=a67c52&logoColor=ffffff" height="28" alt="Vue">
@@ -45,11 +37,7 @@ Full stack AI engineer. I ship products end to end: <strong>Django</strong> and 
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ESLint&color=a67c52&logoColor=ffffff" height="28" alt="ESLint">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Prettier&color=a67c52&logoColor=ffffff" height="28" alt="Prettier">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=pnpm&color=a67c52&logoColor=ffffff" height="28" alt="pnpm">
-</p>
-
-<p align="center"><strong>AI</strong></p>
-<p align="center">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=LLMs&color=a67c52&logoColor=ffffff" height="28" alt="LLMs">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=LLMs&color=a67c52&logoColor=ffffff" height="28" alt="LLMs">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Claude&color=a67c52&logoColor=ffffff" height="28" alt="Claude">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Anthropic&color=a67c52&logoColor=ffffff" height="28" alt="Anthropic">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=OpenAI&color=a67c52&logoColor=ffffff" height="28" alt="OpenAI">
@@ -62,11 +50,7 @@ Full stack AI engineer. I ship products end to end: <strong>Django</strong> and 
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ONNX&color=a67c52&logoColor=ffffff" height="28" alt="ONNX">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ChromaDB&color=a67c52&logoColor=ffffff" height="28" alt="ChromaDB">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TF-IDF&color=a67c52&logoColor=ffffff" height="28" alt="TF-IDF">
-</p>
-
-<p align="center"><strong>Testing &amp; DevOps</strong></p>
-<p align="center">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Git&color=a67c52&logoColor=ffffff" height="28" alt="Git">
+&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Git&color=a67c52&logoColor=ffffff" height="28" alt="Git">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=a67c52&logoColor=ffffff" height="28" alt="GitHub">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=GitLab+CI&color=a67c52&logoColor=ffffff" height="28" alt="GitLab CI">
 &nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub+Actions&color=a67c52&logoColor=ffffff" height="28" alt="GitHub Actions">
