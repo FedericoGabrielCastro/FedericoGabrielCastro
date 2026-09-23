@@ -4,69 +4,6 @@ Full stack AI engineer. I ship products end to end: <strong>Django</strong> and 
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=a67c52&logoColor=ffffff" height="28" alt="Python">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Django&color=a67c52&logoColor=ffffff" height="28" alt="Django">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=DRF&color=a67c52&logoColor=ffffff" height="28" alt="DRF">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Flask&color=a67c52&logoColor=ffffff" height="28" alt="Flask">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=FastAPI&color=a67c52&logoColor=ffffff" height="28" alt="FastAPI">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Pydantic&color=a67c52&logoColor=ffffff" height="28" alt="Pydantic">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQLAlchemy&color=a67c52&logoColor=ffffff" height="28" alt="SQLAlchemy">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Celery&color=a67c52&logoColor=ffffff" height="28" alt="Celery">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Node.js&color=a67c52&logoColor=ffffff" height="28" alt="Node.js">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Express&color=a67c52&logoColor=ffffff" height="28" alt="Express">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript&color=a67c52&logoColor=ffffff" height="28" alt="TypeScript">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=REST&color=a67c52&logoColor=ffffff" height="28" alt="REST">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=GraphQL&color=a67c52&logoColor=ffffff" height="28" alt="GraphQL">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=PostgreSQL&color=a67c52&logoColor=ffffff" height="28" alt="PostgreSQL">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=MongoDB&color=a67c52&logoColor=ffffff" height="28" alt="MongoDB">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Redis&color=a67c52&logoColor=ffffff" height="28" alt="Redis">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=SQLite&color=a67c52&logoColor=ffffff" height="28" alt="SQLite">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Poetry&color=a67c52&logoColor=ffffff" height="28" alt="Poetry">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React&color=a67c52&logoColor=ffffff" height="28" alt="React">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Next.js&color=a67c52&logoColor=ffffff" height="28" alt="Next.js">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Remix&color=a67c52&logoColor=ffffff" height="28" alt="Remix">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Vue&color=a67c52&logoColor=ffffff" height="28" alt="Vue">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Svelte&color=a67c52&logoColor=ffffff" height="28" alt="Svelte">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Redux&color=a67c52&logoColor=ffffff" height="28" alt="Redux">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Redux+Saga&color=a67c52&logoColor=ffffff" height="28" alt="Redux Saga">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=React+Query&color=a67c52&logoColor=ffffff" height="28" alt="React Query">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Vite&color=a67c52&logoColor=ffffff" height="28" alt="Vite">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Tailwind+CSS&color=a67c52&logoColor=ffffff" height="28" alt="Tailwind CSS">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Sass&color=a67c52&logoColor=ffffff" height="28" alt="Sass">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Webpack&color=a67c52&logoColor=ffffff" height="28" alt="Webpack">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ESLint&color=a67c52&logoColor=ffffff" height="28" alt="ESLint">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Prettier&color=a67c52&logoColor=ffffff" height="28" alt="Prettier">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=pnpm&color=a67c52&logoColor=ffffff" height="28" alt="pnpm">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=LLMs&color=a67c52&logoColor=ffffff" height="28" alt="LLMs">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Claude&color=a67c52&logoColor=ffffff" height="28" alt="Claude">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Anthropic&color=a67c52&logoColor=ffffff" height="28" alt="Anthropic">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=OpenAI&color=a67c52&logoColor=ffffff" height="28" alt="OpenAI">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Cursor&color=a67c52&logoColor=ffffff" height="28" alt="Cursor">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Ollama&color=a67c52&logoColor=ffffff" height="28" alt="Ollama">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=RAG&color=a67c52&logoColor=ffffff" height="28" alt="RAG">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Agents&color=a67c52&logoColor=ffffff" height="28" alt="Agents">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Prompt+engineering&color=a67c52&logoColor=ffffff" height="28" alt="Prompt engineering">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=LangChain&color=a67c52&logoColor=ffffff" height="28" alt="LangChain">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ONNX&color=a67c52&logoColor=ffffff" height="28" alt="ONNX">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=ChromaDB&color=a67c52&logoColor=ffffff" height="28" alt="ChromaDB">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=TF-IDF&color=a67c52&logoColor=ffffff" height="28" alt="TF-IDF">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Git&color=a67c52&logoColor=ffffff" height="28" alt="Git">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=a67c52&logoColor=ffffff" height="28" alt="GitHub">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=GitLab+CI&color=a67c52&logoColor=ffffff" height="28" alt="GitLab CI">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub+Actions&color=a67c52&logoColor=ffffff" height="28" alt="GitHub Actions">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Docker&color=a67c52&logoColor=ffffff" height="28" alt="Docker">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Compose&color=a67c52&logoColor=ffffff" height="28" alt="Compose">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Kubernetes&color=a67c52&logoColor=ffffff" height="28" alt="Kubernetes">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Linux&color=a67c52&logoColor=ffffff" height="28" alt="Linux">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Vercel&color=a67c52&logoColor=ffffff" height="28" alt="Vercel">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=pytest&color=a67c52&logoColor=ffffff" height="28" alt="pytest">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Playwright&color=a67c52&logoColor=ffffff" height="28" alt="Playwright">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Vitest&color=a67c52&logoColor=ffffff" height="28" alt="Vitest">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Jest&color=a67c52&logoColor=ffffff" height="28" alt="Jest">
-&nbsp;<img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Swagger&color=a67c52&logoColor=ffffff" height="28" alt="Swagger">
-</p>
-
-<p align="center">
 <a href="https://github.com/FedericoGabrielCastro/Apollo"><strong>Apollo</strong></a><br>
 Scheduled probes, incidents, alerts, and a public status page.<br>
 <img src="https://img.shields.io/static/v1?style=flat-square&label=&message=Python&color=a67c52&logoColor=ffffff" height="20" alt="Python">
